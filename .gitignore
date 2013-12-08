@@ -2,7 +2,6 @@
 #	 Store this file at the root of your local repository.
 .DS_Store
 Temp
-*.pidb
 Library
 
 *.csproj
